@@ -1,0 +1,126 @@
+/* components/saveTel.wxss */
+.zujian{
+    margin-top: 57%;
+    text-align: center;
+}
+.name{
+    position: relative;
+}
+.name > image{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    left: 32%;
+}
+.name > text{
+    font-size: 18px;
+    color: #553E3E;
+    font-weight: 700;
+}
+.name1{
+    position: relative;
+    margin-top: 9px;
+}
+.name1 > image{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    left: 34%;
+}
+.name1 > text{
+    font-size: 18px;
+    color: #553E3E;
+    font-weight: 700;
+}
+.text1{
+    width: 200px;
+    height: 32px;
+    font-size: 16px;
+    color: #5C4544;
+    background-color: #FFE8B2;
+    border-radius: 40px;
+    margin-left: 85px;
+    margin-top: 8px;
+}
+.text2{
+    width: 200px;
+    height: 77px;
+    font-size: 16px;
+    color: #5C4544;
+    background-color: #FFE8B2;
+    border-radius: 10px;
+    margin-left: 85px;
+    margin-top: 10px;
+}
+.name2{
+    position: relative;
+    margin-top: 9px;
+}
+.name2 > image{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    left: 32%;
+}
+.name2 > text{
+    font-size: 18px;
+    color: #553E3E;
+    font-weight: 700;
+}
+.member{
+    display: flex;
+    position: relative;
+    margin-top: 4px;
+    margin-left: 85px;
+    padding-left: 40px;
+}
+.zuzhang{
+    margin-left: 10px;
+}
+.zuzhang > image{
+    width: 38px;
+    height: 38px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+}
+.zuzhang > text{
+    width: 38px;
+    font-size: 12px;
+    transform: scale(0.8);
+    color: #fff;
+    background-color: #FD593E;
+    border-radius: 40px;
+    margin-top: 10px;
+    position: absolute;
+    top: 47%;
+    left: 0;
+}
+.jia{
+    display: flex;
+    margin-left: 40px;
+}
+.jiahao{
+    width: 40px;
+    height: 40px;
+    background-color: #fff;
+    margin-left: 15px;
+    border-radius: 50%;
+    position: relative;
+}
+.jia1{
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    left: 30%;
+    top:30%;
+    z-index: 0;
+}
+.jia2{
+    width: 16px;
+    height: 16px;
+    margin-right: 200px;
+    position: absolute;
+    left: 30%;
+    top:30%;
+    z-index: 0;
+}

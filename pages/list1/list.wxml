@@ -1,0 +1,20 @@
+<!--pages/list.wxml-->
+<view class="main">
+<view class="main-content">
+<view class="page" >
+  <image src="/images/background1.png"></image>
+</view>
+<view class="name">
+<image src="/images/dian.png"></image>
+<text>作业局名称:</text>
+</view>
+<from class="text"><input type="text" class="text1" value="例：不写完作业不睡觉局" maxlength="200"/></from>
+<view class="name1">
+<image src="/images/dian.png"></image>
+<text>学习任务:</text>
+</view>
+<from class="text"><textarea type="text" class="text2" value="例：8点起床，学习2小时" maxlength="500"/></from>
+<view class="room"><button class="btn" bindtap="gotoList">立即组局</button></view>
+<view class="room1"></view>
+</view>
+</view>

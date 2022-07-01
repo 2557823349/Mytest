@@ -1,0 +1,6 @@
+{
+    "usingComponents": {
+        "save-tel" : "/components/saveTel"
+    },
+    "navigationBarTitleText": "作业局2"
+}

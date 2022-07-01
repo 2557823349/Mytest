@@ -1,0 +1,31 @@
+<!--components/saveTel.wxml-->
+<view class="zujian">
+<view class="name">
+<image src="/images/dian.png"></image>
+<text>作业局名称:</text>
+</view>
+<from class="text"><input type="text" class="text1" value="不写完作业不睡觉局" maxlength="200"/></from>
+<view class="name1">
+<image src="/images/dian.png"></image>
+<text>学习任务:</text>
+</view>
+<from class="text"><textarea type="text" class="text2" value="8点起床，学习2小时" maxlength="500"/></from>
+<view class="name2">
+<image src="/images/dian.png"></image>
+<text>作业局成员:</text>
+</view>
+<view class="member">
+<view class="zuzhang">
+<image src="/images/touxiang.png"></image>
+<text>组长</text>
+</view>
+<view class="jia">
+<view class="jiahao">
+<image class="jia1" src="/images/jiahao.png"></image>
+</view>
+<view class="jiahao">
+<image class="jia2" src="/images/jiahao.png"></image>
+</view>
+</view>
+</view>
+</view>

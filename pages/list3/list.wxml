@@ -1,0 +1,15 @@
+<!--pages/list3/list.wxml-->
+<view class="main">
+<view class="main-content">
+<view class="page" >
+<image src="/images/background2.png"></image>
+</view>
+<save-tel></save-tel>
+<view class="jiahao">
+<image class="jia1" src="/images/touxiang1.png"></image>
+</view>
+<view class="room"><button class="btn" bindtap="gotoList">开始结伴学习</button></view>
+<view class="room1"></view>
+<view class="footer"><text>明日0点可开启新的作业局！</text></view>
+</view>
+</view>
